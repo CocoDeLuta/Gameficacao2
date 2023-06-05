@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.csproj.AssemblyReference.cache
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.AssemblyInfo.cs
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Gameficacao_2\bin\Debug\net7.0\Gameficacao_2.exe
+C:\Users\mateu\Documents\Gameficacao_2\bin\Debug\net7.0\Gameficacao_2.deps.json
+C:\Users\mateu\Documents\Gameficacao_2\bin\Debug\net7.0\Gameficacao_2.runtimeconfig.json
+C:\Users\mateu\Documents\Gameficacao_2\bin\Debug\net7.0\Gameficacao_2.dll
+C:\Users\mateu\Documents\Gameficacao_2\bin\Debug\net7.0\Gameficacao_2.pdb
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.dll
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\refint\Gameficacao_2.dll
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.pdb
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\Gameficacao_2.genruntimeconfig.cache
+C:\Users\mateu\Documents\Gameficacao_2\obj\Debug\net7.0\ref\Gameficacao_2.dll
