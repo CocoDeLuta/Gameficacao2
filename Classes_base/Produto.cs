@@ -10,5 +10,7 @@ public class Produto{
         Meias,
         Calças,
     }
+
+    public CategoriaProduto categoria { get; set; }
     
 }
